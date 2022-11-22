@@ -26,5 +26,5 @@ msf exploit(handler) > exploit <br>
 8. **Get creative. Have victim download "exe" file to their machine (i.e through ngrok server, google drive, discord, or other means.)**
   
 # Demonstration Video
-[![Click Me](https://img.youtube.com/vi/hwz77o8YMUA&t/0.jpg)](https://www.youtube.com/watch?v=hwz77o8YMUA&t)
+[![Click Me](https://img.youtube.com/vi/hwz77o8YMUA/0.jpg)](https://www.youtube.com/watch?v=hwz77o8YMUA)
 
